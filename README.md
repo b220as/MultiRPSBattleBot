@@ -1,4 +1,4 @@
-# MultiRPSBattleBot
+# MultiRPSBattleBot(マルチ対戦じゃんけんLINE Bot)
 <ul>
   <li>7/8 リポジトリの作成</li>
   <li>開発言語…Python3</li>
